@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListaComida</string>
+    <string name="desayuno">Desayunos</string>/*Desayunos en familia*/
+    <string name="hamburger">Hamburguesa</string>/*Hamburguesa extra grande*/
+    <string name="pizza">Pizza</string>/*Pizzas a la orden*/
+    <string name="postre">Postre</string>/*Disfruta de los postres*/
+    <string name="pozole">Pozole chico</string>/*Cualquier día es noche mexicana con Pozole*/
+    <string name="tacos">Tacos</string>/*Tacos de guisado*/
+    <string name="desayuno_precio">120.00</string>/*Desayunos en familia*/
+    <string name="hamburger_precio">80.00</string>/*Hamburguesa extra grande*/
+    <string name="pizza_precio">160.00</string>/*Pizzas a la orden*/
+    <string name="postre_precio">25.00</string>/*Disfruta de los postres*/
+    <string name="pozole_precio">85.00</string>/*Cualquier día es noche mexicana con Pozole*/
+    <string name="tacos_precio">20.00 c/u</string>/*Tacos de guisado*/
+    <string name="desayuno_promo">30% menos</string>/*Desayunos en familia*/
+    <string name="hamburger_promo">2X1</string>/*Hamburguesa extra grande*/
+    <string name="pizza_promo">Ahorra $50</string>/*Pizzas a la orden*/
+    <string name="postre_promo">20% menos</string>/*Disfruta de los postres*/
+    <string name="pozole_promo">Ahorra $30</string>
+    <string name="tacos_promo">2x1 en pastor</string>/
+</resources>
